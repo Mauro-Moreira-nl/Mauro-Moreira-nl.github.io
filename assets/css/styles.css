@@ -262,7 +262,7 @@ img{
 /*Lo de la imagen que prefiero hacerlo con el Css*/
 .home__blob-img {
 
-    background-image: url(../img/Perfil1.png);
+    background-image: url(../img/perfil1.png);
     background-repeat: no-repeat;
     background-size: 38rem;
     /* padding: 2rem; */
